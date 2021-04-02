@@ -1,0 +1,37 @@
+1. Introduction
+	- About SDN
+	- About IoT
+	1.1. Problem Statement
+	1.2. Description
+		- mininet
+		- RYU
+		- Open vSwitch
+		- Overview
+
+2. Literature Review
+	- History of routing in IoT
+	- About Sensor paper
+	- About RYU documentation(Arup shared)
+
+3. Proposed Approaches
+	3.1. Sensors slide (What it is? Why we choose it? Why it failed for us?)
+	3.2. Queue approach (What it is? Why we choose it? Why it failed for us?)
+	3.3. Meter Queue approach (What it is? Why we choose it?)
+
+4. Theory	(MASOOD)
+	4.1. IoT
+	4.2. SDN
+	4.3. Clusters
+	4.4. RYU controller
+	4.5. Mininet
+		- mininet wifi
+	4.6. Open vSwitch
+
+5. Methodology
+	5.1. Architecture/Topology
+	5.2. Steps
+	5.3. Algorithm/Code Explanation (Pseudo Code or Flow chart or both) (ARUP)
+
+6. Conclusion
+	6.1. Analysis of result
+	6.2. Future work possible (ARUP)
